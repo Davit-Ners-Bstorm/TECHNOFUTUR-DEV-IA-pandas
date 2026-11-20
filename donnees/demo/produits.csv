@@ -1,0 +1,16 @@
+produit_id,libelle,categorie,prix
+P01,Clavier mécanique,Périphérique,89.9
+P02,Souris sans fil,Périphérique,24.5
+P03,Écran 27 pouces,Écran,249.0
+P04,Casque audio,Audio,129.0
+P05,Webcam HD,Vidéo,59.9
+P06,Câble USB-C,Accessoire,9.9
+P07,Station d'accueil,Accessoire,139.0
+P08,SSD 1 To,Stockage,79.0
+P09,Carte graphique,Composant,549.0
+P10,Tapis de souris,Accessoire,12.0
+P11,Micro USB,Audio,69.0
+P12,Hub USB,Accessoire,29.9
+P13,Chaise de bureau,Mobilier,219.0
+P14,Lampe de bureau,Mobilier,34.5
+P15,Support d'écran,Mobilier,45.0

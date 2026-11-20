@@ -1,0 +1,9 @@
+.venv/
+sorties/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+/corrections
+/formateur
+/slides
+/annexes

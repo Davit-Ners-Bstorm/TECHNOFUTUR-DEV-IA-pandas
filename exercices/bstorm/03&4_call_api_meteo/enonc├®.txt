@@ -1,0 +1,30 @@
+avoir la météo des communes suivantes:
+- 1000
+- auderghem
+- ixelles
+- forest
+- etterbeek
+- Anderlecht
+- saint-gilles
+
+caractéristiques:
+- temperature_2m
+- precipitation proba
+- wind speed (10m)
+
+
+resultat final:  tout dans 1 CSV
+- nom commune
+- code postal
+- longitude
+- latitude
+- date-heures
+- caractéristiques météo
+
+créer au moins une fonction
+f(url_commune) -> pd.Dataframe(structure finale pour la commune)
+
+"""df["new"] = df["col"].apply(fonction)"""
+
+
+
